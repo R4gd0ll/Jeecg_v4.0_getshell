@@ -36,7 +36,7 @@ http://ip:port/iconController.do?saveOrUpdateIcon
 http://ip:port/plug-in/accordion/images/x.xxx
 ```
 
-## xstream_Deserialize
+## Xstream_deserialize
 
 ### payload
 
