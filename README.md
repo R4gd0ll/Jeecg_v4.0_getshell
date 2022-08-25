@@ -1,5 +1,9 @@
 #  Jeecg4.0 GetShell
+## fofa
 
+```
+body="JEECG版权所有 v_4.0" || title="Jeecg 快速开发平台"
+```
 ## Bypass_authorized 
 
 ### payload
