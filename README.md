@@ -1,9 +1,5 @@
 #  Jeecg4.0 GetShell
-## fofa
 
-```
-body="JEECG版权所有 v_4.0" || title="Jeecg 快速开发平台"
-```
 ## Bypass_authorized 
 
 ### payload
@@ -69,6 +65,11 @@ http://x-stream.github.io/CVE-2021-39149.html
   -u --url     对单个ip进行测试
   -f --file    对文件中的所有ip进行测试
   -m --msmurl  注入冰蝎内存马(默认连接密码reyebond,支持4.0,仅支持单独ip测试)
+```
+## fofa
+
+```
+body="JEECG版权所有 v_4.0" || title="Jeecg 快速开发平台"
 ```
 
 ### help
