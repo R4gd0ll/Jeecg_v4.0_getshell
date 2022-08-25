@@ -14,7 +14,7 @@ http://ip:port/api/../xxxxxx
 
 ![image-20220825124856083](https://github.com/R4gd0ll/Jeecg_v4.0_getshell/blob/main/images/1.png)
 
-未授权请求
+绕过授权请求
 
 ![image-20220825124932019](https://github.com/R4gd0ll/Jeecg_v4.0_getshell/blob/main/images/2.png)
 
@@ -121,4 +121,4 @@ C:\jeecg>python3 jeecg_v4.0_getshell.py -f 1.txt
 [+] getshell success, webshell地址:http://xxxxx/plug-in/accordion/images/1.jsp
 [+] getshell success, webshell地址:http://xxxxx//plug-in/accordion/images/1.jsp
 ```
-
+## 只提供经验分享，请勿用于违法途径！！
